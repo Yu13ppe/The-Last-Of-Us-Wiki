@@ -20,13 +20,10 @@ body{
     Header -->
 */
 
-.Tittle{
+.Tittle img{
     position: absolute;
     left: 43%;
     margin-top: 1em;
-}
-
-.Tittle img{
     width: 5em;
 }
 
